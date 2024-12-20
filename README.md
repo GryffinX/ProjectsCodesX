@@ -1,1 +1,5 @@
-This repository is a collection of various codes I have made over years while learning various Coding Languages and skills. Feel free to make any changes or refer to any projects as per your wish.
+#Collection of My Projects
+
+This repository is a compilation of various projects and codes I’ve developed over the years while learning different programming languages and honing my skills.
+
+Feel free to explore, refer to, or modify any of the projects as you wish. Contributions and suggestions are always welcome!
