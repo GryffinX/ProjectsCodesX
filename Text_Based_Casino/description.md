@@ -12,7 +12,7 @@ This project is a casino game application developed in Python, featuring games s
 - **Loan System**: Players can take loans to continue playing if they run out of chips.
 - **Interactive Menu**: User-friendly console interface for easy navigation.
 - **Dynamic Gameplay**: Random outcomes for each game, providing a unique experience.
-- **Local SQL Database**: Uses a local SQL database for storing user data, ensuring data persistence and security.
+- **SQL Database**: Uses a SQL database for storing user data, ensuring data persistence and security.
 
 ## Usage
 
